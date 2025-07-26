@@ -30,3 +30,6 @@ A beautifully crafted, cross-platform *To-Do List App* built with *Flutter* and 
 
 ---
 
+## 🙁 Ignored Files 
+All the files related to security issues are ignored . Like Firebase google-services.json &  many more...
+
